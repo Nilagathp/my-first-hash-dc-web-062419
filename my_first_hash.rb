@@ -1,6 +1,6 @@
 def my_hash
   my_hash = {"name" => "hannah", "ethnicity" => "asian", "eye color" => "brown"}
-end
+  end
 
 def shipping_manifest
   the_manifest = {"Whale bone corsets" => 5, "Porcelain vases" => 2, "Oil paintings" => 3 }
