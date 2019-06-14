@@ -1,5 +1,5 @@
 def my_hash
-  my_hash = {"Potato" => "Vegetable"}
+  your_hash = {"Potato" => "Vegetable"}
 end
 
 def shipping_manifest
