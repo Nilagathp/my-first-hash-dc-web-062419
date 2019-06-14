@@ -1,5 +1,5 @@
 def my_hash
-  your_hash = {"my_name" => "Hannah", "Ethnicity" => "Asian"}
+  your_hash = {"my_name" => "hannah", "ethnicity" => "asian", "eye color" => "brown"}
 end
 
 def shipping_manifest
